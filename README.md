@@ -6,3 +6,7 @@
 - Python 3.11
 - PostgreSQL 15
 - Docker
+
+## Автор
+- simpledeadly
+- github.com/simpledeadly
