@@ -10,3 +10,6 @@
 ## Автор
 - simpledeadly
 - github.com/simpledeadly
+
+## Запуск
+docker compose up -d
