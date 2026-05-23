@@ -27,3 +27,6 @@ def init():
 
 if __name__ == "__main__":
     init()
+
+def add_index():
+    print("index placeholder")
