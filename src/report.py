@@ -8,3 +8,6 @@ def summary(events):
         "avg_score": round(sum(scores) / len(scores), 2),
         "avg_latency": round(sum(latencies) / len(latencies), 1),
     }
+
+def worst_queries(events, threshold=0.75):
+    return [e for e in events if e[4] < threshold]
